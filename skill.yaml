@@ -1,0 +1,5 @@
+name: "a2ui"
+title: "A2UI — Agent-to-UI protocol"
+description: "Build agentic experiences with Google's A2UI protocol: the agent describes interactive UI as a stream of JSON from a component catalog, the SDK compiles and validates it, and the client renders it with native widgets. Use when asked to build, integrate, or debug an A2UI agent, renderer, catalog, or surface, or to run agent-generated UI inside an MCP App."
+category: "Work and knowledge"
+include_in_prompt: true
